@@ -16,7 +16,7 @@ A command-line expense tracker that records expenses by name, amount and categor
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/KananHeybatov/expense-tracker.git
+git clone https://github.com/KananHeybatov/Expense-Tracker.git
 ```
 
 3. Navigate to the directory and run the file:
